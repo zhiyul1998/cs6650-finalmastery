@@ -1,0 +1,4 @@
+Type,Name,Request Count,Failure Count,Median Response Time,Average Response Time,Min Response Time,Max Response Time,Average Content Size,Requests/s,Failures/s,50%,66%,75%,80%,90%,95%,98%,99%,99.9%,99.99%,100%
+GET,/products/{id},394,0,6,6.22786867005078,1,26,88.93908629441624,6.657000729751844,0.0,6,8,9,9,9,10,12,14,26,26,26
+POST,/v1/products/{id}/details,50,0,8,7.2227425000005105,2,10.906667000000425,0.0,0.8447970469228228,0.0,8,9,9,10,10,11,11,11,11,11,11
+,Aggregated,444,0,6,6.339904011261337,1,26,78.92342342342343,7.501797776674667,0.0,6,8,9,9,9,10,11,14,26,26,26
